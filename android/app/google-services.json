@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "603060516772",
+    "project_id": "sign-f17ac",
+    "storage_bucket": "sign-f17ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603060516772:android:ef739276d87633727c3331",
+        "android_client_info": {
+          "package_name": "com.example.emoradd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603060516772-f8fhe478l7h64j8clac5cve685oth7ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtUDfKZ2zJucrw3L_BBqVmSZx53W6piXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603060516772-f8fhe478l7h64j8clac5cve685oth7ol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603060516772:android:8ac7c2fef50845547c3331",
+        "android_client_info": {
+          "package_name": "com.tech.Sign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603060516772-f8fhe478l7h64j8clac5cve685oth7ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtUDfKZ2zJucrw3L_BBqVmSZx53W6piXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603060516772-f8fhe478l7h64j8clac5cve685oth7ol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
